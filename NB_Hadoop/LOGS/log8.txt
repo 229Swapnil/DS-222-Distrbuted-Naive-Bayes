@@ -1,0 +1,430 @@
+packageJobJar: [] [/usr/hdp/2.6.1.0-129/hadoop-mapreduce/hadoop-streaming-2.7.3.2.6.1.0-129.jar] /tmp/streamjob6717596350027227607.jar tmpDir=null
+18/09/09 20:43:25 INFO client.RMProxy: Connecting to ResourceManager at turing.cds.iisc.ac.in/10.24.1.32:8050
+18/09/09 20:43:25 INFO client.AHSProxy: Connecting to Application History server at turing.cds.iisc.ac.in/10.24.1.32:10200
+18/09/09 20:43:25 INFO client.RMProxy: Connecting to ResourceManager at turing.cds.iisc.ac.in/10.24.1.32:8050
+18/09/09 20:43:25 INFO client.AHSProxy: Connecting to Application History server at turing.cds.iisc.ac.in/10.24.1.32:10200
+18/09/09 20:43:26 INFO mapred.FileInputFormat: Total input paths to process : 1
+18/09/09 20:43:26 INFO mapreduce.JobSubmitter: number of splits:2
+18/09/09 20:43:26 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1524406905265_2753
+18/09/09 20:43:27 INFO impl.YarnClientImpl: Submitted application application_1524406905265_2753
+18/09/09 20:43:27 INFO mapreduce.Job: The url to track the job: http://turing.cds.iisc.ac.in:8088/proxy/application_1524406905265_2753/
+18/09/09 20:43:27 INFO mapreduce.Job: Running job: job_1524406905265_2753
+18/09/09 20:43:34 INFO mapreduce.Job: Job job_1524406905265_2753 running in uber mode : false
+18/09/09 20:43:34 INFO mapreduce.Job:  map 0% reduce 0%
+18/09/09 20:43:45 INFO mapreduce.Job:  map 2% reduce 0%
+18/09/09 20:43:46 INFO mapreduce.Job:  map 4% reduce 0%
+18/09/09 20:43:48 INFO mapreduce.Job:  map 6% reduce 0%
+18/09/09 20:43:49 INFO mapreduce.Job:  map 7% reduce 0%
+18/09/09 20:43:51 INFO mapreduce.Job:  map 9% reduce 0%
+18/09/09 20:43:52 INFO mapreduce.Job:  map 10% reduce 0%
+18/09/09 20:43:54 INFO mapreduce.Job:  map 11% reduce 0%
+18/09/09 20:43:55 INFO mapreduce.Job:  map 13% reduce 0%
+18/09/09 20:43:57 INFO mapreduce.Job:  map 14% reduce 0%
+18/09/09 20:43:58 INFO mapreduce.Job:  map 16% reduce 0%
+18/09/09 20:44:00 INFO mapreduce.Job:  map 17% reduce 0%
+18/09/09 20:44:01 INFO mapreduce.Job:  map 19% reduce 0%
+18/09/09 20:44:03 INFO mapreduce.Job:  map 20% reduce 0%
+18/09/09 20:44:04 INFO mapreduce.Job:  map 22% reduce 0%
+18/09/09 20:44:06 INFO mapreduce.Job:  map 23% reduce 0%
+18/09/09 20:44:07 INFO mapreduce.Job:  map 25% reduce 0%
+18/09/09 20:44:09 INFO mapreduce.Job:  map 27% reduce 0%
+18/09/09 20:44:10 INFO mapreduce.Job:  map 28% reduce 0%
+18/09/09 20:44:12 INFO mapreduce.Job:  map 30% reduce 0%
+18/09/09 20:44:13 INFO mapreduce.Job:  map 31% reduce 0%
+18/09/09 20:44:15 INFO mapreduce.Job:  map 33% reduce 0%
+18/09/09 20:44:16 INFO mapreduce.Job:  map 34% reduce 0%
+18/09/09 20:44:18 INFO mapreduce.Job:  map 36% reduce 0%
+18/09/09 20:44:19 INFO mapreduce.Job:  map 37% reduce 0%
+18/09/09 20:44:21 INFO mapreduce.Job:  map 38% reduce 0%
+18/09/09 20:44:22 INFO mapreduce.Job:  map 40% reduce 0%
+18/09/09 20:44:24 INFO mapreduce.Job:  map 41% reduce 0%
+18/09/09 20:44:25 INFO mapreduce.Job:  map 43% reduce 0%
+18/09/09 20:44:27 INFO mapreduce.Job:  map 44% reduce 0%
+18/09/09 20:44:28 INFO mapreduce.Job:  map 46% reduce 0%
+18/09/09 20:44:30 INFO mapreduce.Job:  map 47% reduce 0%
+18/09/09 20:44:31 INFO mapreduce.Job:  map 49% reduce 0%
+18/09/09 20:44:33 INFO mapreduce.Job:  map 51% reduce 0%
+18/09/09 20:44:34 INFO mapreduce.Job:  map 52% reduce 0%
+18/09/09 20:44:36 INFO mapreduce.Job:  map 54% reduce 0%
+18/09/09 20:44:37 INFO mapreduce.Job:  map 55% reduce 0%
+18/09/09 20:44:39 INFO mapreduce.Job:  map 57% reduce 0%
+18/09/09 20:44:40 INFO mapreduce.Job:  map 58% reduce 0%
+18/09/09 20:44:42 INFO mapreduce.Job:  map 60% reduce 0%
+18/09/09 20:44:43 INFO mapreduce.Job:  map 61% reduce 0%
+18/09/09 20:44:45 INFO mapreduce.Job:  map 63% reduce 0%
+18/09/09 20:44:46 INFO mapreduce.Job:  map 64% reduce 0%
+18/09/09 20:44:48 INFO mapreduce.Job:  map 65% reduce 0%
+18/09/09 20:44:49 INFO mapreduce.Job:  map 67% reduce 0%
+18/09/09 20:45:17 INFO mapreduce.Job:  map 83% reduce 0%
+18/09/09 20:45:20 INFO mapreduce.Job:  map 100% reduce 0%
+18/09/09 20:45:29 INFO mapreduce.Job:  map 100% reduce 60%
+18/09/09 20:45:30 INFO mapreduce.Job:  map 100% reduce 69%
+18/09/09 20:45:32 INFO mapreduce.Job:  map 100% reduce 79%
+18/09/09 20:45:33 INFO mapreduce.Job:  map 100% reduce 81%
+18/09/09 20:45:34 INFO mapreduce.Job:  map 100% reduce 82%
+18/09/09 20:45:35 INFO mapreduce.Job:  map 100% reduce 95%
+18/09/09 20:45:36 INFO mapreduce.Job:  map 100% reduce 98%
+18/09/09 20:45:38 INFO mapreduce.Job:  map 100% reduce 100%
+18/09/09 20:45:40 INFO mapreduce.Job: Job job_1524406905265_2753 completed successfully
+18/09/09 20:45:40 INFO mapreduce.Job: Counters: 49
+	File System Counters
+		FILE: Number of bytes read=782697105
+		FILE: Number of bytes written=1566902974
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=131308624
+		HDFS: Number of bytes written=54857189
+		HDFS: Number of read operations=30
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=16
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=8
+		Rack-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=1231638
+		Total time spent by all reduces in occupied slots (ms)=1524276
+		Total time spent by all map tasks (ms)=205273
+		Total time spent by all reduce tasks (ms)=127023
+		Total vcore-milliseconds taken by all map tasks=205273
+		Total vcore-milliseconds taken by all reduce tasks=127023
+		Total megabyte-milliseconds taken by all map tasks=1261197312
+		Total megabyte-milliseconds taken by all reduce tasks=1560858624
+	Map-Reduce Framework
+		Map input records=214997
+		Map output records=26393032
+		Map output bytes=729910993
+		Map output materialized bytes=782697153
+		Input split bytes=254
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=1683359
+		Reduce shuffle bytes=782697153
+		Reduce input records=26393032
+		Reduce output records=1672344
+		Spilled Records=52786064
+		Shuffled Maps =16
+		Failed Shuffles=0
+		Merged Map outputs=16
+		GC time elapsed (ms)=3794
+		CPU time spent (ms)=363510
+		Physical memory (bytes) snapshot=9187733504
+		Virtual memory (bytes) snapshot=113588760576
+		Total committed heap usage (bytes)=9872343040
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=131308370
+	File Output Format Counters 
+		Bytes Written=54857189
+18/09/09 20:45:40 INFO streaming.StreamJob: Output directory: /user/swapnilgupta.229/gupta/train_output/
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+packageJobJar: [] [/usr/hdp/2.6.1.0-129/hadoop-mapreduce/hadoop-streaming-2.7.3.2.6.1.0-129.jar] /tmp/streamjob4371955058973230286.jar tmpDir=null
+18/09/09 20:45:51 INFO client.RMProxy: Connecting to ResourceManager at turing.cds.iisc.ac.in/10.24.1.32:8050
+18/09/09 20:45:51 INFO client.AHSProxy: Connecting to Application History server at turing.cds.iisc.ac.in/10.24.1.32:10200
+18/09/09 20:45:51 INFO client.RMProxy: Connecting to ResourceManager at turing.cds.iisc.ac.in/10.24.1.32:8050
+18/09/09 20:45:51 INFO client.AHSProxy: Connecting to Application History server at turing.cds.iisc.ac.in/10.24.1.32:10200
+18/09/09 20:45:52 INFO mapred.FileInputFormat: Total input paths to process : 1
+18/09/09 20:45:52 INFO mapreduce.JobSubmitter: number of splits:2
+18/09/09 20:45:52 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1524406905265_2756
+18/09/09 20:45:53 INFO impl.YarnClientImpl: Submitted application application_1524406905265_2756
+18/09/09 20:45:53 INFO mapreduce.Job: The url to track the job: http://turing.cds.iisc.ac.in:8088/proxy/application_1524406905265_2756/
+18/09/09 20:45:53 INFO mapreduce.Job: Running job: job_1524406905265_2756
+18/09/09 20:46:00 INFO mapreduce.Job: Job job_1524406905265_2756 running in uber mode : false
+18/09/09 20:46:00 INFO mapreduce.Job:  map 0% reduce 0%
+18/09/09 20:46:12 INFO mapreduce.Job:  map 66% reduce 0%
+18/09/09 20:46:13 INFO mapreduce.Job:  map 100% reduce 0%
+18/09/09 20:46:19 INFO mapreduce.Job:  map 100% reduce 13%
+18/09/09 20:46:20 INFO mapreduce.Job:  map 100% reduce 50%
+18/09/09 20:46:21 INFO mapreduce.Job:  map 100% reduce 100%
+18/09/09 20:46:22 INFO mapreduce.Job: Job job_1524406905265_2756 completed successfully
+18/09/09 20:46:22 INFO mapreduce.Job: Counters: 49
+	File System Counters
+		FILE: Number of bytes read=15399324
+		FILE: Number of bytes written=32307422
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=12748806
+		HDFS: Number of bytes written=11534137
+		HDFS: Number of read operations=30
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=16
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=8
+		Rack-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=127824
+		Total time spent by all reduces in occupied slots (ms)=486192
+		Total time spent by all map tasks (ms)=21304
+		Total time spent by all reduce tasks (ms)=40516
+		Total vcore-milliseconds taken by all map tasks=21304
+		Total vcore-milliseconds taken by all reduce tasks=40516
+		Total megabyte-milliseconds taken by all map tasks=130891776
+		Total megabyte-milliseconds taken by all reduce tasks=497860608
+	Map-Reduce Framework
+		Map input records=29997
+		Map output records=795286
+		Map output bytes=13808704
+		Map output materialized bytes=15399372
+		Input split bytes=258
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=701528
+		Reduce shuffle bytes=15399372
+		Reduce input records=795286
+		Reduce output records=701528
+		Spilled Records=1590572
+		Shuffled Maps =16
+		Failed Shuffles=0
+		Merged Map outputs=16
+		GC time elapsed (ms)=831
+		CPU time spent (ms)=39040
+		Physical memory (bytes) snapshot=6691647488
+		Virtual memory (bytes) snapshot=113589805056
+		Total committed heap usage (bytes)=6518996992
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=12748548
+	File Output Format Counters 
+		Bytes Written=11534137
+18/09/09 20:46:22 INFO streaming.StreamJob: Output directory: /user/swapnilgupta.229/gupta/test_output/
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+18/09/09 20:46:31 WARN streaming.StreamJob: -cacheFile option is deprecated, please use -files instead.
+packageJobJar: [] [/usr/hdp/2.6.1.0-129/hadoop-mapreduce/hadoop-streaming-2.7.3.2.6.1.0-129.jar] /tmp/streamjob6284500960528252590.jar tmpDir=null
+18/09/09 20:46:32 INFO client.RMProxy: Connecting to ResourceManager at turing.cds.iisc.ac.in/10.24.1.32:8050
+18/09/09 20:46:32 INFO client.AHSProxy: Connecting to Application History server at turing.cds.iisc.ac.in/10.24.1.32:10200
+18/09/09 20:46:32 INFO client.RMProxy: Connecting to ResourceManager at turing.cds.iisc.ac.in/10.24.1.32:8050
+18/09/09 20:46:32 INFO client.AHSProxy: Connecting to Application History server at turing.cds.iisc.ac.in/10.24.1.32:10200
+18/09/09 20:46:33 INFO mapred.FileInputFormat: Total input paths to process : 1
+18/09/09 20:46:33 INFO mapreduce.JobSubmitter: number of splits:2
+18/09/09 20:46:33 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1524406905265_2757
+18/09/09 20:46:34 INFO impl.YarnClientImpl: Submitted application application_1524406905265_2757
+18/09/09 20:46:34 INFO mapreduce.Job: The url to track the job: http://turing.cds.iisc.ac.in:8088/proxy/application_1524406905265_2757/
+18/09/09 20:46:34 INFO mapreduce.Job: Running job: job_1524406905265_2757
+18/09/09 20:46:41 INFO mapreduce.Job: Job job_1524406905265_2757 running in uber mode : false
+18/09/09 20:46:41 INFO mapreduce.Job:  map 0% reduce 0%
+18/09/09 20:46:54 INFO mapreduce.Job:  map 67% reduce 0%
+18/09/09 20:46:55 INFO mapreduce.Job:  map 100% reduce 0%
+18/09/09 20:47:06 INFO mapreduce.Job:  map 100% reduce 10%
+18/09/09 20:47:07 INFO mapreduce.Job:  map 100% reduce 30%
+18/09/09 20:47:08 INFO mapreduce.Job:  map 100% reduce 69%
+18/09/09 20:47:09 INFO mapreduce.Job:  map 100% reduce 80%
+18/09/09 20:47:10 INFO mapreduce.Job:  map 100% reduce 82%
+18/09/09 20:47:11 INFO mapreduce.Job:  map 100% reduce 85%
+18/09/09 20:47:12 INFO mapreduce.Job:  map 100% reduce 87%
+18/09/09 20:47:13 INFO mapreduce.Job:  map 100% reduce 89%
+18/09/09 20:47:14 INFO mapreduce.Job:  map 100% reduce 93%
+18/09/09 20:47:15 INFO mapreduce.Job:  map 100% reduce 94%
+18/09/09 20:47:16 INFO mapreduce.Job:  map 100% reduce 96%
+18/09/09 20:47:17 INFO mapreduce.Job:  map 100% reduce 99%
+18/09/09 20:47:18 INFO mapreduce.Job:  map 100% reduce 100%
+18/09/09 20:47:23 INFO mapreduce.Job: Job job_1524406905265_2757 completed successfully
+18/09/09 20:47:23 INFO mapreduce.Job: Counters: 49
+	File System Counters
+		FILE: Number of bytes read=73512990
+		FILE: Number of bytes written=148537064
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=66522646
+		HDFS: Number of bytes written=390012030
+		HDFS: Number of read operations=30
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=16
+	Job Counters 
+		Launched map tasks=2
+		Launched reduce tasks=8
+		Data-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=141936
+		Total time spent by all reduces in occupied slots (ms)=2332452
+		Total time spent by all map tasks (ms)=23656
+		Total time spent by all reduce tasks (ms)=194371
+		Total vcore-milliseconds taken by all map tasks=23656
+		Total vcore-milliseconds taken by all reduce tasks=194371
+		Total megabyte-milliseconds taken by all map tasks=145342464
+		Total megabyte-milliseconds taken by all reduce tasks=2388430848
+	Map-Reduce Framework
+		Map input records=2373872
+		Map output records=2373872
+		Map output bytes=68765198
+		Map output materialized bytes=73513038
+		Input split bytes=248
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=2373872
+		Reduce shuffle bytes=73513038
+		Reduce input records=2373872
+		Reduce output records=10469000
+		Spilled Records=4747744
+		Shuffled Maps =16
+		Failed Shuffles=0
+		Merged Map outputs=16
+		GC time elapsed (ms)=3405
+		CPU time spent (ms)=220430
+		Physical memory (bytes) snapshot=7184924672
+		Virtual memory (bytes) snapshot=113587470336
+		Total committed heap usage (bytes)=7170686976
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=66522398
+	File Output Format Counters 
+		Bytes Written=390012030
+18/09/09 20:47:23 INFO streaming.StreamJob: Output directory: /user/swapnilgupta.229/gupta/score_out/
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+18/09/09 20:48:02 WARN streaming.StreamJob: -cacheFile option is deprecated, please use -files instead.
+packageJobJar: [] [/usr/hdp/2.6.1.0-129/hadoop-mapreduce/hadoop-streaming-2.7.3.2.6.1.0-129.jar] /tmp/streamjob4612660922107851208.jar tmpDir=null
+18/09/09 20:48:02 INFO client.RMProxy: Connecting to ResourceManager at turing.cds.iisc.ac.in/10.24.1.32:8050
+18/09/09 20:48:02 INFO client.AHSProxy: Connecting to Application History server at turing.cds.iisc.ac.in/10.24.1.32:10200
+18/09/09 20:48:03 INFO client.RMProxy: Connecting to ResourceManager at turing.cds.iisc.ac.in/10.24.1.32:8050
+18/09/09 20:48:03 INFO client.AHSProxy: Connecting to Application History server at turing.cds.iisc.ac.in/10.24.1.32:10200
+18/09/09 20:48:06 INFO mapred.FileInputFormat: Total input paths to process : 1
+18/09/09 20:48:06 INFO mapreduce.JobSubmitter: number of splits:3
+18/09/09 20:48:06 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1524406905265_2758
+18/09/09 20:48:07 INFO impl.YarnClientImpl: Submitted application application_1524406905265_2758
+18/09/09 20:48:07 INFO mapreduce.Job: The url to track the job: http://turing.cds.iisc.ac.in:8088/proxy/application_1524406905265_2758/
+18/09/09 20:48:07 INFO mapreduce.Job: Running job: job_1524406905265_2758
+18/09/09 20:48:21 INFO mapreduce.Job: Job job_1524406905265_2758 running in uber mode : false
+18/09/09 20:48:21 INFO mapreduce.Job:  map 0% reduce 0%
+18/09/09 20:48:34 INFO mapreduce.Job:  map 13% reduce 0%
+18/09/09 20:48:35 INFO mapreduce.Job:  map 19% reduce 0%
+18/09/09 20:48:37 INFO mapreduce.Job:  map 27% reduce 0%
+18/09/09 20:48:38 INFO mapreduce.Job:  map 36% reduce 0%
+18/09/09 20:48:40 INFO mapreduce.Job:  map 53% reduce 0%
+18/09/09 20:48:41 INFO mapreduce.Job:  map 61% reduce 0%
+18/09/09 20:48:43 INFO mapreduce.Job:  map 67% reduce 0%
+18/09/09 20:48:47 INFO mapreduce.Job:  map 78% reduce 0%
+18/09/09 20:48:49 INFO mapreduce.Job:  map 100% reduce 0%
+18/09/09 20:49:04 INFO mapreduce.Job:  map 100% reduce 10%
+18/09/09 20:49:05 INFO mapreduce.Job:  map 100% reduce 33%
+18/09/09 20:49:06 INFO mapreduce.Job:  map 100% reduce 41%
+18/09/09 20:49:07 INFO mapreduce.Job:  map 100% reduce 54%
+18/09/09 20:49:10 INFO mapreduce.Job:  map 100% reduce 65%
+18/09/09 20:49:11 INFO mapreduce.Job:  map 100% reduce 76%
+18/09/09 20:49:12 INFO mapreduce.Job:  map 100% reduce 84%
+18/09/09 20:49:13 INFO mapreduce.Job:  map 100% reduce 97%
+18/09/09 20:49:14 INFO mapreduce.Job:  map 100% reduce 98%
+18/09/09 20:49:16 INFO mapreduce.Job:  map 100% reduce 100%
+18/09/09 20:49:25 INFO mapreduce.Job: Job job_1524406905265_2758 completed successfully
+18/09/09 20:49:25 INFO mapreduce.Job: Counters: 50
+	File System Counters
+		FILE: Number of bytes read=421419078
+		FILE: Number of bytes written=844500658
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=390274567
+		HDFS: Number of bytes written=7134164
+		HDFS: Number of read operations=33
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=16
+	Job Counters 
+		Launched map tasks=3
+		Launched reduce tasks=8
+		Data-local map tasks=1
+		Rack-local map tasks=2
+		Total time spent by all maps in occupied slots (ms)=434592
+		Total time spent by all reduces in occupied slots (ms)=2357604
+		Total time spent by all map tasks (ms)=72432
+		Total time spent by all reduce tasks (ms)=196467
+		Total vcore-milliseconds taken by all map tasks=72432
+		Total vcore-milliseconds taken by all reduce tasks=196467
+		Total megabyte-milliseconds taken by all map tasks=445022208
+		Total megabyte-milliseconds taken by all reduce tasks=2414186496
+	Map-Reduce Framework
+		Map input records=10469000
+		Map output records=10469000
+		Map output bytes=400481030
+		Map output materialized bytes=421419174
+		Input split bytes=393
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=7260439
+		Reduce shuffle bytes=421419174
+		Reduce input records=10469000
+		Reduce output records=239976
+		Spilled Records=20938000
+		Shuffled Maps =24
+		Failed Shuffles=0
+		Merged Map outputs=24
+		GC time elapsed (ms)=4357
+		CPU time spent (ms)=166570
+		Physical memory (bytes) snapshot=10329608192
+		Virtual memory (bytes) snapshot=120638418944
+		Total committed heap usage (bytes)=10745806848
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=390274174
+	File Output Format Counters 
+		Bytes Written=7134164
+18/09/09 20:49:25 INFO streaming.StreamJob: Output directory: /user/swapnilgupta.229/gupta/predict_out/
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop/lib/slf4j-log4j12-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/usr/hdp/2.6.1.0-129/hadoop-mapreduce/lib/giraph-examples-1.3.0-SNAPSHOT-for-hadoop-2.7.3-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
